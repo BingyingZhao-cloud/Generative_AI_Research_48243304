@@ -10,9 +10,9 @@ local machine.
 v. Each of the code developers will create a new branch in their forked local 
 repository. Please use an informa6ve name for the new branch. 
 vi. Each of the code developers will modify the content in “Project_logbook.txt”. 
-Please note that at this step, the code developers need to modify different parts 
-of the .txt file, i.e., change the content in different lines.
-11111111111111111111111111111111111
+Please note that at this step, the code developers need to modify different parts. 
+of the .txt file, i.e., change the content in different line
+
 
 
 Very good work Bingying!
