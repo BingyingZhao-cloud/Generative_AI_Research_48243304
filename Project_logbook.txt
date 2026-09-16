@@ -5,14 +5,14 @@ ii. One of the members will be the code reviewer and the other two members will 
 the code developers. 
 iii. The code reviewer will create a .txt file in his/her repository named 
 “Project_logbook”. In the .txt file, write a few sentences. 
-iv. The code developers will fork and clone the code reviewer’s repository to their 
+iv. The code developers will fork and clone the code reviewer’s repository to 
 local machine.
 v. Each of the code developers will create a new branch in their forked local 
 repository. Please use an informa6ve name for the new branch. 
 vi. Each of the code developers will modify the content in “Project_logbook.txt”. 
 Please note that at this step, the code developers need to modify different parts 
 of the .txt file, i.e., change the content in different lines.
-11111111111111111111111111111111111
+
 
 
 Very good work Bingying!
